@@ -1,2 +1,3 @@
 # lambtonPython
-contains Lambton code
+contains python code
+for assignments
